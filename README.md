@@ -204,5 +204,5 @@ Credit Card Financial Dashboard-Transaction.pdf
 **Samyak Meshram**
 Data Analyst
 📧 Email: [samyakmda@gmail.com](mailto:samyakmda@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+🔗 [LinkedIn](https://www.linkedin.com/in/samyakmda/)  
+🔗 [Portfolio](https://samyakmda.github.io/)
